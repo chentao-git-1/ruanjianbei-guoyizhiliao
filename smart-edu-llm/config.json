@@ -1,0 +1,9 @@
+{
+  "collectionName": "smart_edu_knowledge",
+  "url": "http://qdrant_server:6333",
+  "documentBaseDir": "./data/doc",
+  "llm": {
+    "apiBase": "https://maas-cn-southwest-2.modelarts-maas.com/v1/infers/271c9332-4aa6-4ff5-95b3-0cf8bd94c394/v1",
+    "apiKey": "NcALpLES26y6SI1uJGL-2Zhgtoe4X514Mp1-7GlyDFXY2O8S9O0ope2AJ70ZKqBKuJF4YO4vs0EPvRysFEdlSw"
+  }
+}
